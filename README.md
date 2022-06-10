@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessica-wyleung/rcondabinder/HEAD?labpath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessica-wyleung/rcondabinder/HEAD?labpath=R-demo.ipynb)
